@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="best_value">Рекорд %1$s</string>
+    <string name="tries_value">Әрекет %1$s</string>
+    <string name="time_value">Уақыт %1$s</string>
+    <string name="play">Ойнау</string>
+    <string name="resume">Жалғастыру</string>
+    <string name="again">Қайта</string>
+    <string name="back">Артқа</string>
+    <string name="records">Рекордтар</string>
+    <string name="no_records">Әзірге бос</string>
+    <string name="level">Деңгей</string>
+    <string name="level_3">3 сан</string>
+    <string name="level_4">4 сан</string>
+    <string name="level_5">5 сан</string>
+    <string name="solved">Табылды!</string>
+    <string name="new_best">Жаңа рекорд</string>
+    <string name="check">ОК</string>
+    <string name="erase">Өшіру</string>
+    <string name="bull_mark">Б</string>
+    <string name="cow_mark">С</string>
+    <string name="hint">Сан, сосын ОК</string>
+    <string name="legend">Б орын, С сан</string>
+    <string name="pager">Беттер</string>
+    <string name="digit_key">Сан %1$d</string>
+    <string name="no_result">-</string>
+</resources>

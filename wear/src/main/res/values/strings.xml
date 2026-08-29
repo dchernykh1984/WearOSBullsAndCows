@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The screen strings, in the eleven languages the Zepp OS original shipped.
+     Android resolves the watch's locale to the right table on its own, so
+     Kazakh - which Zepp OS had no device-language code for - finally reaches the
+     people it was translated for.
+
+     Adding a language means adding one values-<code>/strings.xml with every key
+     below; Android Lint's MissingTranslation check is an error here, so a table
+     that is short of a key fails the build rather than falling back silently. -->
+<resources>
+    <!-- The name the launcher shows, and the title over the start menu. -->
+    <string name="app_name" translatable="false">Bulls &amp; Cows</string>
+    <!-- The value can be the placeholder rather than a number, which is why it is a string: a level with no record yet has no guess count to show. -->
+    <string name="best_value">Best %1$s</string>
+    <string name="tries_value">Tries %1$s</string>
+    <string name="time_value">Time %1$s</string>
+    <string name="play">Play</string>
+    <string name="resume">Continue</string>
+    <string name="again">Again</string>
+    <string name="back">Back</string>
+    <string name="records">Records</string>
+    <string name="no_records">Nothing yet</string>
+    <string name="level">Level</string>
+    <string name="level_3">3 digits</string>
+    <string name="level_4">4 digits</string>
+    <string name="level_5">5 digits</string>
+    <string name="solved">Solved!</string>
+    <string name="new_best">New best!</string>
+    <string name="check">OK</string>
+    <string name="erase">Del</string>
+    <!-- The two letters a history row ends with: 1234 0B 4C. They share that row with the guess itself, so they are one character wherever a language allows it. -->
+    <string name="bull_mark">B</string>
+    <string name="cow_mark">C</string>
+    <!-- A full sentence under the start menu; the legend is the one under it that explains the two letters. -->
+    <string name="hint">Tap digits, then OK</string>
+    <string name="legend">B place, C digit</string>
+    <!-- The counter doubles as the control that pages back through the history, and the digit keys are drawn rather than written, so these are what a screen reader has to go on. -->
+    <string name="pager">Pager</string>
+    <string name="digit_key">Digit %1$d</string>
+    <!-- What stands in for a figure there is none of: a level nobody has solved shows a dash rather than a zero, which would read as a score. -->
+    <string name="no_result">-</string>
+</resources>
