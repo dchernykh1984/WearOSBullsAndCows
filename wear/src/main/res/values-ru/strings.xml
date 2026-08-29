@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="best_value">Рекорд %1$s</string>
+    <string name="tries_value">Попытки %1$s</string>
+    <string name="time_value">Время %1$s</string>
+    <string name="play">Играть</string>
+    <string name="resume">Продолжить</string>
+    <string name="again">Заново</string>
+    <string name="back">Назад</string>
+    <string name="records">Рекорды</string>
+    <string name="no_records">Пока пусто</string>
+    <string name="level">Уровень</string>
+    <string name="level_3">3 цифры</string>
+    <string name="level_4">4 цифры</string>
+    <string name="level_5">5 цифр</string>
+    <string name="solved">Разгадано!</string>
+    <string name="new_best">Новый рекорд</string>
+    <string name="check">ОК</string>
+    <string name="erase">Убрать</string>
+    <string name="bull_mark">Б</string>
+    <string name="cow_mark">К</string>
+    <string name="hint">Цифры, потом ОК</string>
+    <string name="legend">Б место, К цифра</string>
+    <string name="pager">Страницы</string>
+    <string name="digit_key">Цифра %1$d</string>
+    <string name="no_result">-</string>
+</resources>

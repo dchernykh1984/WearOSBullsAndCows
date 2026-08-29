@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="best_value">Rekord %1$s</string>
+    <string name="tries_value">Pokusy %1$s</string>
+    <string name="time_value">Čas %1$s</string>
+    <string name="play">Hrát</string>
+    <string name="resume">Pokračovat</string>
+    <string name="again">Znovu</string>
+    <string name="back">Zpět</string>
+    <string name="records">Rekordy</string>
+    <string name="no_records">Zatím nic</string>
+    <string name="level">Úroveň</string>
+    <string name="level_3">3 číslice</string>
+    <string name="level_4">4 číslice</string>
+    <string name="level_5">5 číslic</string>
+    <string name="solved">Uhodnuto!</string>
+    <string name="new_best">Nový rekord</string>
+    <string name="check">OK</string>
+    <string name="erase">Smazat</string>
+    <string name="bull_mark">B</string>
+    <string name="cow_mark">K</string>
+    <string name="hint">Číslice a pak OK</string>
+    <string name="legend">B místo, K číslo</string>
+    <string name="pager">Strany</string>
+    <string name="digit_key">Cislice %1$d</string>
+    <string name="no_result">-</string>
+</resources>

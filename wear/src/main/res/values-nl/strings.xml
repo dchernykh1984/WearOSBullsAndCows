@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="best_value">Record %1$s</string>
+    <string name="tries_value">Pogingen %1$s</string>
+    <string name="time_value">Tijd %1$s</string>
+    <string name="play">Spelen</string>
+    <string name="resume">Verder</string>
+    <string name="again">Opnieuw</string>
+    <string name="back">Terug</string>
+    <string name="records">Records</string>
+    <string name="no_records">Nog niets</string>
+    <string name="level">Niveau</string>
+    <string name="level_3">3 cijfers</string>
+    <string name="level_4">4 cijfers</string>
+    <string name="level_5">5 cijfers</string>
+    <string name="solved">Gekraakt!</string>
+    <string name="new_best">Nieuw record</string>
+    <string name="check">OK</string>
+    <string name="erase">Wis</string>
+    <string name="bull_mark">S</string>
+    <string name="cow_mark">K</string>
+    <string name="hint">Cijfers, dan OK</string>
+    <string name="legend">S plek, K cijfer</string>
+    <string name="pager">Paginas</string>
+    <string name="digit_key">Cijfer %1$d</string>
+    <string name="no_result">-</string>
+</resources>

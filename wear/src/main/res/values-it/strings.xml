@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="best_value">Record %1$s</string>
+    <string name="tries_value">Tentativi %1$s</string>
+    <string name="time_value">Tempo %1$s</string>
+    <string name="play">Gioca</string>
+    <string name="resume">Riprendi</string>
+    <string name="again">Ancora</string>
+    <string name="back">Indietro</string>
+    <string name="records">Record</string>
+    <string name="no_records">Ancora nulla</string>
+    <string name="level">Livello</string>
+    <string name="level_3">3 cifre</string>
+    <string name="level_4">4 cifre</string>
+    <string name="level_5">5 cifre</string>
+    <string name="solved">Indovinato!</string>
+    <string name="new_best">Nuovo record</string>
+    <string name="check">OK</string>
+    <string name="erase">Canc</string>
+    <string name="bull_mark">T</string>
+    <string name="cow_mark">M</string>
+    <string name="hint">Cifre, poi OK</string>
+    <string name="legend">T posto, M cifra</string>
+    <string name="pager">Pagine</string>
+    <string name="digit_key">Cifra %1$d</string>
+    <string name="no_result">-</string>
+</resources>
